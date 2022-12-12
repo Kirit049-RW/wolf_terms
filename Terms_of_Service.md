@@ -2,7 +2,7 @@
 
 Last updated: September 23, 2022
 
-Disclaimer: By adding and using this bot, you agree to everything within this Privacy Policy. If you disagree, please remove this bot and request that your data be deleted.
+Disclaimer: By adding and using this bot, you agree to everything within this Terms of Services. If you disagree, please remove this bot and request that your data be deleted.
 
 ## Definitions
 
