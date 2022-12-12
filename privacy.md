@@ -44,6 +44,6 @@ An example of data that gets stored is as follows:
 {
   "guild_id": "1010101010101010",
   "user_id": "1010101010101010",
-  "language": "fr_FR"
+  "language": "fr-FR"
 }
 ```
