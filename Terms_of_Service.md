@@ -1,8 +1,8 @@
-# Terms of Service of the bot Tomabot
+# Terms of Service of the bot Wolf
 
 Last updated: September 23, 2022
 
-Disclaimer: By adding and using this bot, you agree to everything within this Terms of Services. If you disagree, please remove this bot and request that your data be deleted.
+Disclaimer: By adding and using this bot, you agree to everything within this Terms of Service. If you disagree, please remove this bot and request that your data be deleted.
 
 ## Definitions
 
